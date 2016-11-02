@@ -1,0 +1,70 @@
+KLRahul  	32 	1 	82.05
+MVijay 	 	65 	0 	38.23
+CAPujara 	62 	0 	56.88
+VKohli 	 	9 	0 	90.00
+AMRahane 	18 	0 	50.00
+RGSharma 	35 	1 	52.23
+RAshwin 	40 	0 	52.63
+WPSaha 	 	0 	0 	0.00
+RAJadeja 	42 	1 	95.45
+MohammedShami 	0 	0 	0.00
+UTYadav 	9 	0 	33.33
+		
+TABoult 	20 	 67 	3  	3.35 	
+NWagner 	15 	 42 	2 	2.80 	
+MJSantner 	23 	 94 	3 	4.08 	
+MDCraig 	24 	 59 	1 	2.45 	
+ISSodhi 	15 	 50 	1 	3.33 	
+  					
+MJGuptill 	 21 	 0 	67.74
+TWMLatham 	 58 	 0 	38.41
+KSWilliamson*    75 	 0 	54.74
+LRPLTaylor 	 0 	 0 	0.00
+LRonchi 	 38 	 0 	45.78
+MJSantner 	 32 	 0 	29.90
+BJWatling† 	 21 	 0 	38.88
+MDCraig 	 2 	 0 	25.00
+ISSodhi 	 0 	 0 	0.00
+TABoult 	 0 	 0 	0.00
+NWagner 	 0	 0 	0.00	
+	 	 
+MohammedShami 	11 	 35 	0 	3.18 	 	
+UTYadav 	15 	 33 	1 	2.20 	
+RAJadeja 	34 	 73 	5 	2.14 	
+RAshwin 	30.5 	 93 	4 	3.01 	 	
+MVijay 		4 	 10 	0 	2.50 		
+RGSharma 	1 	 5 	0 	5.00	
+  
+KLRahul 	38 	0 	76.00
+MVijay 		76 	1 	44.70
+CAPujara 	78 	0 	51.31
+VKohli	 	18 	0 	45.00
+AMRahane 	40 	0 	49.38
+RGSharma 	68 	0 	73.11
+RAJadeja 	50 	3 	86.20
+		
+TABoult 	9 	 34 	0 	3.77 	
+MJSantner 	32.2 	 79 	2 	2.44 	
+MDCraig 	23 	 80 	1 	3.47 	
+NWagner 	16 	 52 	0 	3.25 	
+ISSodhi 	20 	 99 	2 	4.95 	
+MJGuptill 	4 	 17 	0 	4.25 	
+KSWilliamson 	3 	 7 	0 	2.33 	
+
+TWMLatham 	2 	0 	13.33
+MJGuptill 	0 	0 	0.00
+KSWilliamson 	25 	0 	42.37
+LRPLTaylor 	17 	0 	47.22
+LRonchi 	80 	1 	66.66
+MJSantner 	71 	2 	39.66
+BJWatling 	18 	0 	60.00
+MDCraig 	1 	0 	50.00
+ISSodhi 	17 	1 	44.73
+TABoult 	2 	0 	6.66
+NWagner 	0 	0 	0.00
+		 	 
+MohammedShami 	8 	 18 	2 	2.25 	 	 	
+RAshwin 	35.3 	 132 	6 	3.71 	 	 	
+RAJadeja 	34 	 58 	1 	1.70 		
+UTYadav 	8 	 23 	0 	2.87 	 	 	
+MVijay 		2 	 3 	0 	1.50 		 	

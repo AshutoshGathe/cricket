@@ -1,0 +1,25 @@
+RohitSharma	43	3	138.70
+AjinkyaRahane	40	0	114.28
+*ViratKohli	89	1	189.36
+*MSDhoni	15  	0	166.67
+
+ARussell	4.0	47	1	11.75
+SBadree		4.0	26	1	6.50
+CBraithwaite	4.0	38	0	9.50
+SBenn		4.0	36	0	9.00
+DJBravo		4.0	44	0	11.00
+
+JCharles	52	2	144.44
+CHGayle		5	0	83.33
+MNSamuels	8	0	114.25
+LSimmons	82	5	160.78
+*ARussell	43	4	215.00
+
+ANehra		4.0	24	1	6.00
+JBumrah		4.0	42	1	10.50
+RJadeja		4.0	48	0	12.00
+RAshwin		2.0	20	0	10.00
+HPandya		4.0	43	0	10.75
+VKohli		1.4	15	1	9.00
+
+	

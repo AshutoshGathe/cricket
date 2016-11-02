@@ -1,0 +1,27 @@
+MJayawardene	22	1	66.66
+TMDilshan	160	3	96.96
+KSangakkara	105	2	120.68
+TPerera		3	0	100.00
+AMathews	14	0	140.00
+LChandimal	2	0	100.00
+
+ZKhan		9	61	1	6.77
+PKumar		9	64	1	7.11
+UYadav		8	56	0	7.00
+RJadeja		9	43	1	4.77
+RAshwn		10	52	0	5.20
+VSehwag		3	24	0	8.00
+SRaina		2	17	0	8.50
+
+VSehwag		30	1	187.50
+STendulkar	39	0	130.00
+GGambhir	63	0	98.43
+VKohli		133	2	154.65
+SRaina		40	1	166.66
+
+LMalinga	7.4	96	1	12.52
+NKulasekra	8.0	71	0	8.87
+MMaharoof	3.0	21	1	7.00
+TPerera		7.0	59	0	8.42
+AMathews	7.0	44	0	6.25
+RHerath		4.0	20	0	5.00

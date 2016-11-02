@@ -1,0 +1,35 @@
+AShehzad	47	0	64.38
+YounisKhan	6	0	60.00
+HarisSohail	36	0	75.00
+Misbahulhaq	76	1	90.47
+SohaibMaqsood	0	0	0.00
+UmarAkmal	0	0	0.00
+ShahidAfridi	22	1	100.00
+WahaRiaz	4	0	200.00
+YasirShah	13	0	56.52
+SohailKhan	7	0	70.00
+MIrfan		1	0	20.00	
+
+UYadav	10	50	2	5.00
+MShami	9	35	4	3.88
+MSharma	9	35	2	3.88
+SRaina	1	6	0	6.00
+RAshwin	8	41	1	5.12
+RJadeja	10	56	1	5.60
+
+RSharma	15	2	75.00
+SDhawan	73	1	96.05
+VKohli	107	0	84.92
+SRaina	74	3	132.14
+MSDhoni	18	1	138.46
+RJadeja	3	0	60.00
+ARahane	0	0	0.00
+RAshwin	1	0	0.00
+MShami	3	0	100.00
+
+MIrfan		10	58	0	8.80
+SohailKhan	1	55	5	5.50
+ShahidAfridi	8	5	0	6.25
+WahabRiaz	10	49	1	4.90
+YasirShah	8	60	0	7.50
+HarisSohail	4	26	0	6.50	

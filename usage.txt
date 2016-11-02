@@ -1,0 +1,38 @@
+New Menu -
+	It has 2 options -> ODI
+			->T20	
+Clicking on ODI, pops a new window (Match1), team1 and team 2 and stats
+	Select team fo which scores are to be added 
+
+	team1- entries of individual scores of batsman of(team1)
+	and overs and wickets of bowlers of(team 2)
+	
+	team2 - entries of individual scores of batsman of(team2)
+	and overs and wickets of bowlers of(team 2)
+	
+	sum clicked ->assigns individual player's score
+	extras button add score to team total
+
+	overs and wickets of bowlers are incremented by clicking the respective button
+	
+	scorecard button dispalys scorecard of each team respectively
+	
+	Stats will display the statistical information about the match which includes(best batsman, best bowler, who hit maximum sixes);
+
+Previous Menu
+	It has 3 options -> ODI
+			 -> T20
+			 -> TEST
+
+	By clciking ODI, two matches will be displayed(MAtch1, Match2), each has match has 3 type of datastored
+	(Team1 scorecard, Team2 Scorecard, Stats)
+	By clicking on Team1 scorecard it dispalys scorecard which includes:- Team1 batting perfomances, Team2 bowling perfomances
+	By clicking on Team2 scorecard it dispalys scorecard which includes:- Team2 batting perfomances, Team1 bowling perfomances 
+	Stats will display the statistical information about the match which includes(best batsman, best bowler, who hi max sixes, 
+	most economic bowler);
+
+	T20 display the data the same way as ODI's
+
+	TEST button opens match1 which has options(team1 first and second  innings , team2 first and second innings)
+	and stats option.
+ 
